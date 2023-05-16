@@ -1,7 +1,7 @@
-package dortvebesincikuvvetleriyazdir;
+package dortvebesinkuvvetleriniyazdir;
 
 import java.util.Scanner;
-public class DortveBesinciKuvvetleriYazdir {
+public class DortveBesinKuvvetleriniYazdir {
     public static void main(String[] args) {
 
         int sayi,sayac = 0;
